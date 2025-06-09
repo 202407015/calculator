@@ -1,0 +1,5 @@
+202407015 정영훈
+
+#pragma once
+/// div.h/cpp 나눗셈 헤더 & 구현 파일
+int divide(int x, int y);
