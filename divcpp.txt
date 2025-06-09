@@ -1,0 +1,13 @@
+202407015 정영훈
+
+int divide(int x, int y)
+{
+	int i = 0;
+	if (x > y) {
+		i = x / y;
+	}
+	if (y > x) {
+		i = y / x;
+	}
+	return i;
+}
